@@ -24,7 +24,7 @@ The student assignment policy passed by the San Francisco Board of Education (se
 *Collaborators: Irene Lo, Itai Ashlagi, Mobin Yahyazadeh Jeloudar*
 
 
-### Capacity and Yield Managment under Student Assginment with Failures
+### Overbooking with Priority-Respecting Reassignment
 
 School choice theory typically models student assignment algorithms as a single run of a student assignment algorithm, like Deferred Acceptance. In practice, however, student assignment takes place over multiple rounds, with students departing the system between application rounds. In this work, we try to build a theoretical framework for how schools should set their capacity in early rounds of assignment to manage yield and reduce churn from seats vacated by departing students.
 

@@ -19,6 +19,8 @@ Right now, I'm excited about geospatial data, and I'm interested in drawing insi
 You can find me on [LinkedIn](https://www.linkedin.com/in/katherine-mentzer/) and [GitHub](https://github.com/klmentzer).
 
 ## Recent Updates
+- July 2023: Our work, Overbooking with Priority-Respecting Reassignment, was accepted to [EAAMO](https://eaamo.org/) – please stop by my co-author's presentation if you're attending!
+- July 2023: Completed the [Stanford Graduate School of Business Ignite program](gsb.stanford.edu/exec-ed/programs/stanford-ignite-full-time/curriculum), an entrepreneurship intesive
 - June 2023: Honored to receive an honorable mention for the Gene Golub Dissertation Award given by ICME. 
 - June 2023: Congrats, [Granica](https://granica.ai/) on the launch! Excited to be joining as a Research Engineer later this summer. 
 - March 2023: My work on neural network surrogate models for inertial confinement fusion applications from my time at Lawrence Livermore National Laboratory was published in [Physics of Plasmas](https://pubs.aip.org/aip/pop/article/30/3/032704/2881793/Neural-network-surrogate-models-for-equations-of).
