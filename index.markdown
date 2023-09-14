@@ -8,7 +8,7 @@ layout: home
 
 
 # Hi, I'm Kaleigh Mentzer.
-My name is Katherine Leigh Mentzer, but I go by Kaleigh. 
+My name is Katherine Leigh Mentzer, I go by Kaleigh. 
 
 I recently completed my Ph.D. in Computational and Mathematical Engineering at Stanford University, advised by Irene Lo and Itai Ashlagi. My dissertation work focused on using Operations Research tools to improve student assignment algorithms in the San Francisco Unified School District, and our research has influenced educational policy in the district. I enjoy working with stakeholders to formulate, execute, and communicate solutions to computationally difficult algorithmic and optimization-based problems, and I'm passionate about using computational tools to improve equity of access to education.
 
@@ -19,6 +19,8 @@ Right now, I'm excited about geospatial data, and I'm interested in drawing insi
 You can find me on [LinkedIn](https://www.linkedin.com/in/katherine-mentzer/) and [GitHub](https://github.com/klmentzer).
 
 ## Recent Updates
+- August 2023: I gave a workshop for Women in Data Science on Student Assinment and Public Sector Collaborations. Video avalable [here](https://youtu.be/cqLBJIYbrdY?si=IcFWiAhAX7KMwckY).
+- August 2023: I taught the Data Visualization workshop for the [ICME Fundamentals of Data Science Summer Workshop Series](https://icme.stanford.edu/icme-summer-workshops-2023-details#10) – slides and other course materials available [here](https://tsornwanee.github.io/icme-data-visualization/)!
 - July 2023: Our work, Overbooking with Priority-Respecting Reassignment, was accepted to [EAAMO](https://eaamo.org/) – please stop by my co-author's presentation if you're attending!
 - July 2023: Completed the [Stanford Graduate School of Business Ignite program](gsb.stanford.edu/exec-ed/programs/stanford-ignite-full-time/curriculum), an entrepreneurship intesive
 - June 2023: Honored to receive an honorable mention for the Gene Golub Dissertation Award given by ICME. 
