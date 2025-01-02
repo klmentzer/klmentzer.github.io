@@ -10,15 +10,16 @@ layout: home
 # Hi, I'm Kaleigh Mentzer.
 My name is Katherine Leigh Mentzer, I go by Kaleigh. 
 
-I recently completed my Ph.D. in Computational and Mathematical Engineering at Stanford University, advised by Irene Lo and Itai Ashlagi. My dissertation work focused on using Operations Research tools to improve student assignment algorithms in the San Francisco Unified School District, and our research has influenced educational policy in the district. I enjoy working with stakeholders to formulate, execute, and communicate solutions to computationally difficult algorithmic and optimization-based problems, and I'm passionate about using computational tools to improve equity of access to education.
+I'm currently a Member of the Technical Staff at Datology, helping to find the best data to train machine learning models. I recently completed my Ph.D. in Computational and Mathematical Engineering at Stanford University, advised by Irene Lo and Itai Ashlagi. My dissertation work focused on using Operations Research tools to improve student assignment algorithms in the San Francisco Unified School District, and our research has influenced educational policy in the district. I enjoy working with stakeholders to formulate, execute, and communicate solutions to computationally difficult algorithmic and optimization-based problems, and I'm passionate about using computational tools to improve equity of access to education.
 
 Before Stanford, I graduated Magna Cum Laude from Dartmouth College with a BA in Physics (with Honors) and a minor in Economics.
-
-Right now, I'm excited about geospatial data, and I'm interested in drawing insights from the HCI community to better communicate computational results. 
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/katherine-mentzer/) and [GitHub](https://github.com/klmentzer).
 
 ## Recent Updates
+- January 2025: Excited to share that I'm joining [Datology AI](https://www.datologyai.com/) as a Member of the Technical Staff!
+- August 2024: I presented my work with Andrea Montanari, [Scaling Training Data with Lossy Compression](https://dl.acm.org/doi/10.1145/3637528.3671904) at KDD 2024 in Barcelona.
+- October 2023: Honored to be inducted into the [Wearers of the Green](https://dartmouthsports.com/news/2023/10/10/dartmouth-to-induct-39-new-members-into-wearers-of-the-green-231010.aspx), Dartmouth's athletics hall of fame
 - August 2023: I gave a workshop for Women in Data Science on Student Assinment and Public Sector Collaborations. Video avalable [here](https://youtu.be/cqLBJIYbrdY?si=IcFWiAhAX7KMwckY).
 - August 2023: I taught the Data Visualization workshop for the [ICME Fundamentals of Data Science Summer Workshop Series](https://icme.stanford.edu/icme-summer-workshops-2023-details#10) – slides and other course materials available [here](https://tsornwanee.github.io/icme-data-visualization/)!
 - July 2023: Our work, Overbooking with Priority-Respecting Reassignment, was accepted to [EAAMO](https://eaamo.org/) – please stop by my co-author's presentation if you're attending!
