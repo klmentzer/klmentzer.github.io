@@ -17,6 +17,8 @@ Before Stanford, I graduated Magna Cum Laude from Dartmouth College with a BA in
 You can find me on [LinkedIn](https://www.linkedin.com/in/katherine-mentzer/) and [GitHub](https://github.com/klmentzer).
 
 ## Recent Updates
+- February 2026: Datology AI released [ÜberWeb: Insights from Multilingual Curation for a 20-Trillion-Token Dataset](https://www.datologyai.com/blog/berweb-insights-from-multilingual-curation-for-a-20-trillion-token-dataset), a blog post for which I was a core contributor.
+- November 2025: Our paper, "[Optimization Meets Participation: Iterative Zone Generation for School Assignment](https://conference2025.eaamo.org/conference_information/schedule/papers/optimization_meets_participation.pdf)," was selected from over 100 submissions as one of two best papers at EAAMO 2025.
 - January 2025: Excited to share that I'm joining [Datology AI](https://www.datologyai.com/) as a Member of the Technical Staff!
 - August 2024: I presented my work with Andrea Montanari, [Scaling Training Data with Lossy Compression](https://dl.acm.org/doi/10.1145/3637528.3671904) at KDD 2024 in Barcelona.
 - October 2023: Honored to be inducted into the [Wearers of the Green](https://dartmouthsports.com/news/2023/10/10/dartmouth-to-induct-39-new-members-into-wearers-of-the-green-231010.aspx), Dartmouth's athletics hall of fame

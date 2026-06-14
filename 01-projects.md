@@ -5,6 +5,12 @@ permalink: /projects/
 order: 1
 ---
 
+### Multilingual Data Curation for Foundation Models
+
+At Datology AI, I was a core contributor to work on multilingual data curation for large-scale foundation model training. In [ÜberWeb: Insights from Multilingual Curation for a 20-Trillion-Token Dataset](https://www.datologyai.com/blog/berweb-insights-from-multilingual-curation-for-a-20-trillion-token-dataset), we studied language-specific curation across thirteen non-English languages and showed that careful data curation can improve cross-lingual transfer, reduce multilingual interference, and enable compute-efficient multilingual scaling.
+
+*Core contributors: Aldo Gael Carranza, Kaleigh Mentzer, Ricardo Pio Monti*
+
 ### Simulation-Based Student Assignment Policy Decision Support Tools
 
 I have been a core member of a team of researchers working to redesign elementary school student assignment in the San Francisco Unified School District. We implemented an end-to-end simulation tool to test and evaluate counterfactual policies using modifications of student assignment algorithms such as Deferred Acceptance and Top Trading Cycles. We developed a multinomial logit choice model to simulate student preferences, and we collaborated with education researchers to identify the metrics that correlate most closely with student outcomes. We presented trade-offs from our research to the San Francisco Board of Education, who passed a policy informed by our work that will go into effect for the 2024-25 academic year.
@@ -21,6 +27,8 @@ I spent the summer of 2021 at Pacific Northwest National Laboratories as an inte
 
 The student assignment policy passed by the San Francisco Board of Education (see Simulation-Based Student Assignment Policy Decision Support Tools project) mandated the development of contiguous geographic zones containing multiple schools. We developed an integer program in GurobiPy to assign census block groups to create compact, diverse zones. To make further refinements computationally tractable, we implemented a local search heuristics to fine-tune our solutions. I also developed an interactive dashboard for district staff to explore the tradeoffs of different zoning plans.
 
+Our paper, "[Optimization Meets Participation: Iterative Zone Generation for School Assignment](https://conference2025.eaamo.org/conference_information/schedule/papers/optimization_meets_participation.pdf)," was selected from over 100 submissions as one of two best papers at EAAMO 2025 and was presented in a special best paper session on November 6, 2025.
+
 *Collaborators: Irene Lo, Itai Ashlagi, Mobin Yahyazadeh Jeloudar*
 
 
@@ -35,4 +43,3 @@ School choice theory typically models student assignment algorithms as a single 
 During an internship with Lawrence Livermore National Laboratory in the summer of 2019, I develeoped a neural network surrogate model for equation of state tables that describe energy and entropy of materials at extreme temperatures and pressurs. This surrogate model is to be used in inertial confinement fusion simulations that inform experiments at the National Ignition Facility. We were able to improve model performance by incorporating phase information into our model architecture.
 
 *Collaborators: Luc Peterson*
-
